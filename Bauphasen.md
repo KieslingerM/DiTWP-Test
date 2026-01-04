@@ -12,4 +12,4 @@ Folgend werden dien Bauphasen für unser kleines Projekt angefährt:
 
 6.) Schal- und Bewehrungsarbeiten
 
-7.) Betonieren der Wand
+7.) Betonieren der Wande
