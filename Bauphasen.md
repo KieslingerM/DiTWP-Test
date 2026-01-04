@@ -10,6 +10,8 @@ Folgend werden dien Bauphasen für unser kleines Projekt angefährt:
 
 5.) Arbeitsfuge bearbeiten
 
-6.) Schal- und Bewehrungsarbeiten
+6.) Schal- und Bewehrungsarbeiten von der Wand
 
 7.) Betonieren der Wande
+
+8.) Ausschalen 
